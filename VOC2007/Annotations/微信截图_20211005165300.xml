@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>微信截图_20211005165300.png</filename>
+	<path>A:\yolo_v5_code\VOC2007\JPEGImages\微信截图_20211005165300.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>134</width>
+		<height>102</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>3</ymin>
+			<xmax>121</xmax>
+			<ymax>66</ymax>
+		</bndbox>
+	</object>
+</annotation>
